@@ -4,3 +4,5 @@ seaborn
 beautifulsoup4
 ftfy
 wordcloud
+langdetect
+scikit-learn
