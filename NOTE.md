@@ -1,4 +1,5 @@
 # TODO
+- ubah pendekatan modeling menggunakan fitur, karena 2x percobaan menggunakan text terlihat model masih belum cukup bagus
 
 # Insight
 - Banyak unicode-unicode yang perlu diproses
